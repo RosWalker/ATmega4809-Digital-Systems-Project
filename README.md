@@ -1,5 +1,3 @@
-# ATmega4809-Digital-Systems-Project
-
 # ATmega4809 Rotating Motor Control Project
 
 ## Overview
